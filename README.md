@@ -62,7 +62,7 @@ requirements.txt
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/price-is-right.git
+    git clone https://github.com/UtkarshShaarma/price-is-right.git
     cd price-is-right
     ```
 
